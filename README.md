@@ -1,2 +1,2 @@
 # GPSLocation
-GPSDetector is a android application developed using MIT App Inventor that lets you get the current Latitude and Longitude value of the place and thus also helps reduces the cost of buying a GPS Module.
+GPSDetector is an android based application developed using MIT App Inventor that helps you get the current Latitude and Longitude value of the place and also helps reducing the cost of buying a GPS Module.
